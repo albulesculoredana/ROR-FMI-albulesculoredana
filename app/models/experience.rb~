@@ -1,0 +1,4 @@
+class Experience < ActiveRecord::Base
+  attr_accessible :description, :end_time, :job_title, :start_time
+  belongs_to :cv
+end

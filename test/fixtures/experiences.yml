@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  start_time: 2012-10-28
+  end_time: 2012-10-28
+  job_title: MyString
+  description: MyText
+
+two:
+  start_time: 2012-10-28
+  end_time: 2012-10-28
+  job_title: MyString
+  description: MyText
